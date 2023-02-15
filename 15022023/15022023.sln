@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{A467E0DB-E6D0-40AF-A9D0-EB10849A10BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson", "Lesson\Lesson.csproj", "{C319EAB4-F440-4AA8-839E-91D96855295F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmTask", "FarmTask\FarmTask.csproj", "{6DE320A6-6E29-46AE-8C66-B2D892BDC7C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A467E0DB-E6D0-40AF-A9D0-EB10849A10BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A467E0DB-E6D0-40AF-A9D0-EB10849A10BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A467E0DB-E6D0-40AF-A9D0-EB10849A10BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A467E0DB-E6D0-40AF-A9D0-EB10849A10BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C319EAB4-F440-4AA8-839E-91D96855295F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C319EAB4-F440-4AA8-839E-91D96855295F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C319EAB4-F440-4AA8-839E-91D96855295F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C319EAB4-F440-4AA8-839E-91D96855295F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE320A6-6E29-46AE-8C66-B2D892BDC7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE320A6-6E29-46AE-8C66-B2D892BDC7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE320A6-6E29-46AE-8C66-B2D892BDC7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE320A6-6E29-46AE-8C66-B2D892BDC7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D21C4D9F-4F7C-4FCA-9805-963340C3D990}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kHamnjQF/xSShF8ORgpW6s5uYS2j/SZAC6LuRMrHj4q+7bKuz+k+mdJeCXnDA1XFzBD35zl2iCPbpXl4cf7FEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\20. 15-02-2023\\15022023\\Homework\\Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eagha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
